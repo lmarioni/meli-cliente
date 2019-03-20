@@ -3,14 +3,14 @@
   ---
 ## Front End
 
-#### Links
+#### Links de los repos:
  ##### [Github - lmarioni](https://github.com/lmarioni/meli-cliente) -  Fron end
  ##### [Github - lmarioni](https://github.com/lmarioni/meli-servidor) -  Back end
  
  --
  #### Stack
- `Front`: HTML, CSS, ReactJS.
- `Back`: NodeJS, Express
+ * `Front`: HTML, CSS, ReactJS.
+ * `Back`: NodeJS, Express
 --
 #### Como ejecutar el challenge
 * Clonar ambos repos..
