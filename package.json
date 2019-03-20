@@ -3,8 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "feather-icons": "^4.19.0",
+    "node-sass": "^4.11.0",
+    "query-string": "^6.4.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-flexbox-grid": "^2.1.2",
+    "react-md-spinner": "^0.3.0",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.8"
   },
   "scripts": {

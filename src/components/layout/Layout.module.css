@@ -1,0 +1,47 @@
+nav{
+    height: 56px;
+    padding: 0 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff159;
+    box-shadow: 0 1px 2px 0 rgba(51, 51, 51, 0.15),
+    inset 0 -1px 0 0 #e6cf00;
+    -webkit-box-shadow: 0 1px 2px 0 rgba(51, 51, 51, 0.15),
+    inset 0 -1px 0 0 #e6cf00;
+} 
+.Search{
+    display: flex;
+}
+ .Buscar{
+     width: 600px;  
+     height: 35px;
+ }
+
+.BtnBuscar{
+    width: 46px;
+    border: none;
+    height: 39px;
+    background-color: #EEEEEE;
+}
+
+.ImgLupa{
+    width: 18px;
+    height: auto;
+}
+
+
+form{
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@media (max-width: 768px) {
+    .Buscar{
+        width: 200px;  
+        height: 35px;
+        
+    }
+   
+  }
