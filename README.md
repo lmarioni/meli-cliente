@@ -1,6 +1,5 @@
 # MELI Challenge
 
-  ---
 ## Front End
 
 #### Links de los repos:
